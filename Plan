@@ -1,4 +1,6 @@
 I. Introduction
+
+
 	•	Contexte : travail en équipe dans les projets numériques
 	•	Problématique : gestion des modifications et des versions
 	•	Présentation des outils : Git & GitHub
@@ -9,15 +11,18 @@ I. Introduction
 II. Git : outil de gestion de versions
 
 1. Définition
+
 	•	Logiciel de versioning (local)
 	•	Gestion des différentes versions d’un projet
 
 2. Fonctionnement
+
 	•	Commit (sauvegarde)
 	•	Historique des versions
 	•	Retour en arrière possible
 
 3. Limites
+
 	•	Fonctionne en local
 	•	Collaboration limitée
 
@@ -26,34 +31,41 @@ II. Git : outil de gestion de versions
 III. GitHub : plateforme de collaboration (PARTIE PRINCIPALE)
 
 1. Définition
+
 	•	Plateforme en ligne
 	•	Hébergement de projets
 
 2. Repository (repo)
+
 	•	Dossier du projet
 	•	Stockage du code et des fichiers
 
 3. Travail collaboratif
+
 	•	Travail à plusieurs
 	•	Partage des modifications
 
 4. Commandes principales
+
 	•	Commit (sauvegarder)
 	•	Push (envoyer)
 	•	Pull (récupérer)
 
 5. Branches
+
 	•	Branche principale (main)
 	•	Branches secondaires
 	•	Travail parallèle
 
 6. Merge
+
 	•	Fusion des branches
 	•	Intégration des modifications
 
 ⸻
 
 IV. Cas pratique
+
 	•	Exemple de projet en équipe
 	•	Utilisation de Git
 	•	Utilisation de GitHub
@@ -62,6 +74,7 @@ IV. Cas pratique
 ⸻
 
 V. Avantages
+
 	•	Sécurité des données
 	•	Travail en équipe facilité
 	•	Historique des modifications
@@ -70,6 +83,7 @@ V. Avantages
 ⸻
 
 VI. Conclusion
+
 	•	Rôle de Git
 	•	Rôle de GitHub
 	•	Importance dans les projets actuels
