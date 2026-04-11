@@ -1,104 +1,75 @@
-PLAN DÉTAILLÉ – EXPOSÉ GIT & GITHUB
+I. Introduction
+	•	Contexte : travail en équipe dans les projets numériques
+	•	Problématique : gestion des modifications et des versions
+	•	Présentation des outils : Git & GitHub
+	•	Annonce du plan
 
-I. Introduction (accroche + problème)
+⸻
 
-👉 Tu dois commencer simple et concret :
-
-Exemple à dire :
-
-“Aujourd’hui, de nombreux projets sont réalisés en équipe, notamment dans le développement informatique. Mais travailler à plusieurs pose un problème : comment éviter de perdre des données ou d’écraser le travail des autres ?”
-
-👉 Ensuite :
-
-“Pour résoudre ce problème, on utilise des outils comme Git et GitHub.”
-
-👉 Annonce du plan :
-
-“Nous allons d’abord voir ce qu’est Git, puis GitHub, et enfin illustrer leur fonctionnement avec un cas pratique.”
-
-🔹 II. Git : l’outil de gestion de versions - INES
-
-1. Définition simple
-Git = outil installé sur l’ordinateur
-permet de sauvegarder les versions d’un projet
-👉 Exemple :
-“Au lieu d’avoir plusieurs fichiers comme v1, v2, v3, Git garde un historique propre.”
-
-2. Fonctionnement
-
-Commit = sauvegarde
-Historique = toutes les versions
-
-👉 Exemple concret :
-“Si je fais une erreur, je peux revenir à une version précédente.”
-
-3. Limite de Git seul
-
-👉 Transition importante :
-“Cependant, Git fonctionne en local. Pour travailler en équipe, il faut une plateforme en ligne.”
-
-🔹 III. GitHub : la plateforme de collaboration (PARTIE PRINCIPALE) - SOFIANE & SYAM
-
+II. Git : outil de gestion de versions
 
 1. Définition
+	•	Logiciel de versioning (local)
+	•	Gestion des différentes versions d’un projet
 
-GitHub = plateforme en ligne
-permet de stocker et partager des projets
+2. Fonctionnement
+	•	Commit (sauvegarde)
+	•	Historique des versions
+	•	Retour en arrière possible
+
+3. Limites
+	•	Fonctionne en local
+	•	Collaboration limitée
+
+⸻
+
+III. GitHub : plateforme de collaboration (PARTIE PRINCIPALE)
+
+1. Définition
+	•	Plateforme en ligne
+	•	Hébergement de projets
 
 2. Repository (repo)
+	•	Dossier du projet
+	•	Stockage du code et des fichiers
 
-dossier du projet sur GitHub
+3. Travail collaboratif
+	•	Travail à plusieurs
+	•	Partage des modifications
 
-👉 Exemple :
-“Notre projet de site web est stocké dans un repository.”
+4. Commandes principales
+	•	Commit (sauvegarder)
+	•	Push (envoyer)
+	•	Pull (récupérer)
 
-3. Travail en équipe
-
-plusieurs personnes travaillent ensemble
-chacun envoie ses modifications
-
-4. Commandes importantes (simplifiées)
-
-Push = envoyer
-Pull = récupérer
-Commit = sauvegarder
-
-5. Branches (très important)
-
-main = version principale
-branches = travail séparé
-
-👉 Exemple :
-“Chaque membre de l’équipe travaille sur une branche différente.
+5. Branches
+	•	Branche principale (main)
+	•	Branches secondaires
+	•	Travail parallèle
 
 6. Merge
+	•	Fusion des branches
+	•	Intégration des modifications
 
-fusion des travaux
-
-👉 Exemple :
-“Une fois le travail terminé, on fusionne les branches pour obtenir le projet final.”
-
+⸻
 
 IV. Cas pratique
+	•	Exemple de projet en équipe
+	•	Utilisation de Git
+	•	Utilisation de GitHub
+	•	Étapes de collaboration
 
+⸻
 
-🔹 V. Avantages de Git & GitHub
+V. Avantages
+	•	Sécurité des données
+	•	Travail en équipe facilité
+	•	Historique des modifications
+	•	Organisation du projet
 
-- éviter la perte de données
-- travail en équipe facilité
-- historique des modifications
-- organisation claire
+⸻
 
-👉 Exemple :
-
-“Même si une erreur est faite, on peut revenir en arrière.”
-
-🔹 VI. Conclusion
-
-👉 Simple et efficace :
-
-“Git et GitHub sont aujourd’hui indispensables pour le développement de projets numériques. Git permet de gérer les versions, tandis que GitHub permet de collaborer efficacement en ligne.”
-
-
-
-Plan fait par IA ,  à adapter 
+VI. Conclusion
+	•	Rôle de Git
+	•	Rôle de GitHub
+	•	Importance dans les projets actuels
