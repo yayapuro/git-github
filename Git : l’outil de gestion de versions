@@ -1,0 +1,42 @@
+1. Définition de Git
+
+•       Git = logiciel de gestion de versions (Version Control System / VCS)
+•       S'installe sur l'ordinateur, fonctionne en local (sans internet)
+•       Créé en 2005 par Linus Torvalds (créateur du noyau Linux)
+•       Standard mondial : utilisé par +90% des développeurs professionnels
+ 
+2. Le problème que Git résout
+
+•       Sans Git : multiplication des fichiers (v1, v2, final, VRAIMENT_final…)
+•       Risque d'écraser le travail des autres
+•       Impossible de savoir quelle est la bonne version
+•       Avec Git : un historique unique, propre et structuré de toutes les modifications
+ 
+3. Les 3 zones de travail (technique)
+
+•       Working Directory = le dossier sur l'ordi où on travaille directement
+•       Staging Area = zone de préparation : on sélectionne les fichiers à sauvegarder (commande : git add)
+•       Repository local = base de données cachée où Git stocke tout l'historique (≠ repository GitHub, c'est la partie de Sofiane & Syam)
+ 
+4. Le commit (notion centrale)
+
+•       Commit = sauvegarde validée d'un état précis du projet (= point de sauvegarde)
+•       Deux étapes : git add (sélectionner) → git commit (valider avec un message)
+•       Chaque commit contient : les modifications, un message, une date, le nom de l'auteur
+•       Hash = identifiant unique généré automatiquement par Git pour chaque commit (ex: a3f4b2c)
+•       Permet de retrouver et restaurer n'importe quelle version à tout moment
+ 
+5. L'historique et la traçabilité
+
+•       Git garde tous les commits dans l'ordre chronologique
+•       On voit : qui a modifié quoi, quand, et pourquoi (via le message)
+•       Traçabilité = on peut identifier à quel commit un bug a été introduit
+•       Possibilité de revenir à une version précédente à tout moment
+ 
+6. La limite de Git → transition vers GitHub
+
+•       Git fonctionne uniquement en local → historique sur l'ordi uniquement
+•       Les coéquipiers n'ont pas accès aux commits
+•       Si l'ordi tombe en panne → tout est perdu
+•       Impossible de synchroniser le travail en équipe
+•       Solution → une plateforme en ligne : GitHub (partie Sofiane & Syam)
