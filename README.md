@@ -7,6 +7,9 @@
 ## Git : l’outil de gestion de versions
 ![Capture du repository GitHub](3.png)
 ## GitHub : la plateforme de collaboration
+![Capture du repository GitHub](4.png)
+![Capture du repository GitHub](5.png)
+
 PARTIE III – GitHub : la plateforme de collaboration
 
 1. Positionnement
@@ -16,20 +19,21 @@ Analogie : Google Drive mais pour les projets
 Différence clé : Git = outil local / GitHub = plateforme collaborative
 +100 millions d'utilisateurs, racheté par Microsoft en 2018
 
+![Capture du repository GitHub](6.png)
 2. Le Repository
 
 Repo = dossier du projet hébergé en ligne
 Contient les fichiers + tout l'historique des modifications
 Clone = copier le repo sur son ordi pour travailler en local
 Notre repo : fichiers, notes, Wiki, image de démo
-
+![Capture du repository GitHub](7.png)
 3. Workflow collaboratif
 
 Commit → Push → Pull : cycle de base
 Commit = sauvegarder une étape avec un message
 Push = envoyer son travail sur GitHub
 Pull = récupérer le travail des autres
-
+![Capture du repository GitHub](8.png)
 4. Branches
 
 Main = version officielle et stable → on n'y touche pas directement
@@ -37,26 +41,20 @@ Branche = espace de travail isolé par membre
 Feature branch workflow : une branche par personne/fonctionnalité
 Merge = fusionner sa branche dans main
 Conflits = deux personnes modifient le même fichier → à régler manuellement
-
+![Capture du repository GitHub](9.png)
 5. Pull Request
 
 PR = demande de fusion formelle avant de merger
 Permet la revue de code : commentaires, corrections, validation
 Tout est tracé et historisé
 Standard dans tous les projets professionnels
+![Capture du repository GitHub](10.png)
 
 6. Fonctionnalités complémentaires
 
 Issues : suivi des tâches et bugs
 GitHub Actions : automatisation (tests, déploiement) → CI/CD
 Wiki : documentation du projet → utilisé pour centraliser nos infos de groupe
-![Capture du repository GitHub](4.png)
-![Capture du repository GitHub](5.png)
-![Capture du repository GitHub](6.png)
-![Capture du repository GitHub](7.png)
-![Capture du repository GitHub](8.png)
-![Capture du repository GitHub](9.png)
-![Capture du repository GitHub](10.png)
 ## Cas pratique
 ![Capture du repository GitHub](17.png)
 ![Capture du repository GitHub](18.png)
