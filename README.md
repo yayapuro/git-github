@@ -15,7 +15,7 @@
 ![Capture du repository GitHub](9.png)
 ![Capture du repository GitHub](10.png)
 ## Cas pratique
-
+![Capture du repository GitHub](11.png)
 Pour illustrer concrètement le fonctionnement de Git et GitHub, nous avons choisi de créer un repository dédié à notre exposé.
 Au lieu de prendre l’exemple d’un site web, nous avons utilisé GitHub pour organiser directement notre travail de groupe. Dans ce repository, nous pouvons regrouper les différents éléments utiles à la préparation de notre présentation, par exemple le texte de l’oral, les idées principales, les captures d’écran, les images, ou encore le contenu du diaporama.
 La première étape consiste à créer un repository sur GitHub. Ce repository représente l’espace principal du projet. C’est dans cet espace que l’on stocke tous les fichiers liés à l’exposé. Dans notre cas, il contient par exemple un fichier README.md, qui sert à présenter le sujet, et d’autres fichiers comme des images ou des notes.
@@ -26,4 +26,6 @@ Dans le cadre d’un travail collaboratif, chaque membre peut aussi participer a
 Ce cas pratique montre donc que GitHub peut être utilisé comme un espace de travail commun pour préparer un exposé. Il permet de stocker les informations, d’ajouter progressivement du contenu, de conserver un historique des modifications et de rendre le projet plus clair et mieux organisé.
 
 ## Avantages de Git & GitHub
+![Capture du repository GitHub](12.png)
 ## Conclusion
+![Capture du repository GitHub](13.png)
