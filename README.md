@@ -3,6 +3,9 @@
 
 ![Capture du repository GitHub](1.png)
 ## Introduction
+Dans un projet numérique, une erreur ou un manque de coordination peut rapidement faire perdre du travail.
+Git permet de gérer les versions d’un projet, tandis que GitHub facilite la collaboration en ligne.
+Cette présentation montrera que ces outils ne servent pas seulement à programmer, mais aussi à organiser, sécuriser et partager le travail de manière efficace.
 ![Capture du Plan](2.png)
 ## Git : l’outil de gestion de versions
 ![Capture du repository GitHub](3.png)
