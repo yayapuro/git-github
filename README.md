@@ -16,10 +16,10 @@
 ![Capture du repository GitHub](10.png)
 ## Cas pratique
 ![Capture du repository GitHub](17.png)
+![Capture du repository GitHub](18.png)
 ![Capture du repository GitHub](14)
 ![Capture du repository GitHub](15)
 ![Capture du repository GitHub](16)
-![Capture du repository GitHub](18.png)
 ![Capture du repository GitHub](19.png)
 ![Capture du repository GitHub](20.png)
 
