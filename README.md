@@ -1,7 +1,7 @@
 # EXPOSÉ GIT & GITHUB
-Voici une capture d’écran du repository GitHub utilisé pour la démonstration :
 
-![Capture du repository GitHub](demo-github.jpg)
+
+![Capture du repository GitHub](1.png)
 ## Introduction
 ## Git : l’outil de gestion de versions
 ## GitHub : la plateforme de collaboration
