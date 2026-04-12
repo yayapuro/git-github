@@ -1,0 +1,6 @@
+Un historique complet des modifications, tracé et signé = moins de risque de perte de travail. 
+Le travail en branches permet de travailler de manière clair de son côté sans gêner son équipe.
+Pull Request = avant d’intégrer des modifications, les autres membres peuvent lire, commenter et approuver le travail d’une branche. 
+Git = tout le monde possède une copie du projet en local donc limite la perte de données si un serveur est défectueux.
+GitHub = héberge le projet dans le cloud et est accessible à tout moment. 
+Système de détection de vulnérabilités = Dependabot alerte en cas de problème de sécurité détecté. 
