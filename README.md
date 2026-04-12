@@ -9,9 +9,9 @@ Cette présentation montrera que ces outils ne servent pas seulement à programm
 ![Capture du Plan](2.png)
 ## Git : l’outil de gestion de versions
 ![Capture du repository GitHub](3.png)
-![Capture du repository GitHub](Ines 1.png)
-![Capture du repository GitHub](Ines 2.png)
-![Capture du repository GitHub](Ines 3.png)
+![Capture du repository GitHub](Ines1.png)
+![Capture du repository GitHub](Ines2.png)
+![Capture du repository GitHub](Ines3.png)
 
 
 ## GitHub : la plateforme de collaboration
