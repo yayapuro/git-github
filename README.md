@@ -3,8 +3,17 @@
 
 ![Capture du repository GitHub](1.png)
 ## Introduction
+![Capture du Plan](2.png)
 ## Git : l’outil de gestion de versions
+![Capture du repository GitHub](3.png)
 ## GitHub : la plateforme de collaboration
+![Capture du repository GitHub](4.png)
+![Capture du repository GitHub](5.png)
+![Capture du repository GitHub](6.png)
+![Capture du repository GitHub](7.png)
+![Capture du repository GitHub](8.png)
+![Capture du repository GitHub](9.png)
+![Capture du repository GitHub](10.png)
 ## Cas pratique
 
 Pour illustrer concrètement le fonctionnement de Git et GitHub, nous avons choisi de créer un repository dédié à notre exposé.
