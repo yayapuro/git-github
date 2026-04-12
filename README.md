@@ -15,7 +15,6 @@
 ![Capture du repository GitHub](9.png)
 ![Capture du repository GitHub](10.png)
 ## Cas pratique
-![Capture du repository GitHub](11.png)
 ![Capture du repository GitHub](17.png)
 ![Capture du repository GitHub](18.png)
 ![Capture du repository GitHub](19.png)
