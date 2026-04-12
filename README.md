@@ -65,7 +65,8 @@ Wiki : documentation du projet → utilisé pour centraliser nos infos de groupe
 ![Capture du repository GitHub](22)
 ![Capture du repository GitHub](23)
 ![Capture du repository GitHub](20.png)
-
+![Capture du repository GitHub](25)
+![Capture du repository GitHub](26)
 
 Pour illustrer concrètement le fonctionnement de Git et GitHub, nous avons choisi de créer un repository dédié à notre exposé.
 Au lieu de prendre l’exemple d’un site web, nous avons utilisé GitHub pour organiser directement notre travail de groupe. Dans ce repository, nous pouvons regrouper les différents éléments utiles à la préparation de notre présentation, par exemple le texte de l’oral, les idées principales, les captures d’écran, les images, ou encore le contenu du diaporama.
