@@ -158,6 +158,8 @@ de structurer le travail
 de contrôler les modifications
 de collaborer de manière plus professionnelle
 ## Avantages de Git & GitHub
-![Capture du repository GitHub](12.png)
+![Capture du repository GitHub](T1.png)
+![Capture du repository GitHub](T2.png)
 ## Conclusion
-![Capture du repository GitHub](13.png)
+![Capture du repository GitHub](T3.png)
+![Capture du repository GitHub](T4.png)
