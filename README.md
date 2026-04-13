@@ -1,7 +1,7 @@
 # EXPOSÉ GIT & GITHUB
 
 
-![Capture du repository GitHub](1.png)
+![Capture du repository GitHub](intro.png)
 ## Introduction
 Dans un projet numérique, une erreur ou un manque de coordination peut rapidement faire perdre du travail.
 Git permet de gérer les versions d’un projet, tandis que GitHub facilite la collaboration en ligne.
