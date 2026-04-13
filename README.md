@@ -11,7 +11,9 @@ Cette présentation montrera que ces outils ne servent pas seulement à programm
 
 ## Git : l’outil de gestion de versions
 ![Capture du repository GitHub](3.png)
-
+![Capture du repository GitHub](GIT1.png)
+![Capture du repository GitHub](GIT2.png)
+![Capture du repository GitHub](GIT3.png)
 1. Définition de Git
 •       Git = logiciel de gestion de versions (Version Control System / VCS)
 •       S'installe sur l'ordinateur, fonctionne en local (sans internet)
